@@ -1,5 +1,5 @@
-# ChatGPT CLI
-A demo on how a CLI chatbot can be built with Node.js and OpenAI [chat completion](https://platform.openai.com/docs/guides/chat) feature. You will need an account with 
+# ChatGPT CLI Chatbot
+A demo on how a simple CLI chatbot can be built with Node.js and OpenAI [chat completion](https://platform.openai.com/docs/guides/chat) feature. You will need an account with 
 OpenAI (which is free) to interact with the chatbot.
 
 - Start by cloning the project `git clone git@github.com:buihdk/chatgpt-cli-chatbot.git`
