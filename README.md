@@ -7,7 +7,7 @@ OpenAI (which is free) to interact with the chatbot.
 - Run `touch .env` to create an env file. You will need to set up 2 environment variables `OPENAI_ORGANIZATION_ID` and `OPENAI_API_KEY`. The Organization ID can be found [here](https://platform.openai.com/account/org-settings) whereas an API Key can be found [here](https://platform.openai.com/account/api-keys). 
 - Update `randomstring` with your actual Organization ID and API KEY, and run the command below to add them to env file:
     ```
-    echo -e "OPENAI_ORGANIZATION_ID=org-randomstring\nOPENAI_API_KEY=sk-randomstring2" > .env
+    echo -e "OPENAI_ORGANIZATION_ID=org-randomstring\nOPENAI_API_KEY=sk-randomstring" > .env
     ```  
     Your .env should look like this (with `randomstring` replaced):
     ```
